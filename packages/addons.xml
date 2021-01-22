@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
-<addon id="repository.nixgates" name="FlashingCursor Repo" version="1.0.0" provider-name="FlashingCursor">
+<addon id="repository.flashingcursor" name="Flashingcursor Repo" version="1.0.0" provider-name="Flashingcursor">
 	<extension point="xbmc.addon.repository" name="Flashingcursor Repo">
 		<dir minversion="18.0" maxversion="19.9.0">
-			<info compressed="false">https://raw.githubusercontent.com/nixgates/nixgates/master/packages/leia/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/nixgates/nixgates/master/packages/leia/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/nixgates/nixgates/master/packages/leia/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/nixgats/flashingcursor/master/packages/leia/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/flashingcursor/flashingcursor/master/packages/leia/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/flashingcursor/flashingcursor/master/packages/leia/</datadir>
 		</dir>
 		<dir minversion="19.0">
-			<info compressed="false">https://raw.githubusercontent.com/nixgates/nixgates/master/packages/matrix/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/nixgates/nixgates/master/packages/matrix/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/nixgates/nixgates/master/packages/matrix/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/flashingcursor/flashingcursor/master/packages/matrix/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/flashingcursor/flashingcursor/master/packages/matrix/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/flashingcursor/flashingcursor/master/packages/matrix/</datadir>
 		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Nixgates</summary>
-		<description>Nixgates Repository</description>
+		<summary>Flashingcursor</summary>
+		<description>Flashingcursors Repository</description>
 		<platform>all</platform>
 	</extension>
 </addon>
-</addons>
